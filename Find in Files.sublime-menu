@@ -1,0 +1,9 @@
+[
+    { "command": "clear_location", "caption": "清空" },
+    { "command": "add_directory", "caption": "加入目錄" },
+    { "command": "add_where_snippet", "args": {"snippet": "*.${0:txt}"}, "caption": "加入包含篩選器" },
+    { "command": "add_where_snippet", "args": {"snippet": "-*.${0:txt}"}, "caption": "加入排除篩選器" },
+    { "command": "add_where_snippet", "args": {"snippet": "<open folders>"}, "caption": "加入打開資料夾" },
+    { "command": "add_where_snippet", "args": {"snippet": "<open files>"}, "caption": "加入打開檔案" },
+    { "command": "add_where_snippet", "args": {"snippet": "<current file>"}, "caption": "加入目前檔案" },
+]

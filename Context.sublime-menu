@@ -1,0 +1,16 @@
+[
+    { "command": "open_context_url", "caption": "開啟網址" },
+    { "command": "context_goto_definition", "caption": "前往定義" },
+    { "caption": "-", "id": "clipboard" },
+    { "command": "copy", "caption": "複製" },
+    { "command": "cut", "caption": "剪下" },
+    { "command": "paste", "caption": "貼上" },
+    { "caption": "-", "id": "selection" },
+    { "command": "select_all", "caption": "全選" },
+    { "caption": "-", "id": "file" },
+    { "command": "open_in_browser", "caption": "用瀏覽器打開" },
+    { "command": "open_dir", "args": {"dir": "$file_path", "file": "$file_name"}, "caption": "打開所含資料夾…" },
+    { "command": "copy_path", "caption": "複製檔案路徑" },
+    { "command": "reveal_in_side_bar", "caption": "顯示在側邊欄" },
+    { "caption": "-", "id": "end" }
+]
